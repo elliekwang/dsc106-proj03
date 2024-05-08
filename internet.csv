@@ -1,0 +1,1168 @@
+,country,income,year,gdp,internet
+0,Aruba,High income,2000,1873452514.0,15.4
+1,Aruba,High income,2005,2360017318.0,25.4
+2,Aruba,High income,2010,2453597207.0,62.0
+3,Aruba,High income,2015,2962907263.0,88.7
+4,Afghanistan,Low income,2005,6203256497.0,1.2
+5,Afghanistan,Low income,2010,15856668496.0,4.0
+6,Afghanistan,Low income,2015,19134221745.0,8.3
+7,Afghanistan,Low income,2019,18799444415.0,17.6
+8,Afghanistan,Low income,2020,19955929061.0,18.4
+9,Angola,Lower middle income,2000,9129594816.0,0.1
+10,Angola,Lower middle income,2005,36970901024.0,1.1
+11,Angola,Lower middle income,2010,83799473760.0,2.8
+12,Angola,Lower middle income,2015,90496420626.0,22.0
+13,Angola,Lower middle income,2019,70897962713.0,32.1
+14,Angola,Lower middle income,2020,48501561230.0,32.6
+15,Angola,Lower middle income,2021,66505129989.0,32.6
+16,Albania,Upper middle income,2000,3480355258.0,0.1
+17,Albania,Upper middle income,2005,8052077248.0,6.0
+18,Albania,Upper middle income,2010,11926926616.0,45.0
+19,Albania,Upper middle income,2015,11386853113.0,56.9
+20,Albania,Upper middle income,2019,15401826127.0,68.6
+21,Albania,Upper middle income,2020,15162734205.0,72.2
+22,Albania,Upper middle income,2021,17930565119.0,79.3
+23,Andorra,High income,2000,1429047882.0,10.5
+24,Andorra,High income,2005,3159826892.0,37.6
+25,Andorra,High income,2010,3449925694.0,81.0
+26,Andorra,High income,2015,2789882569.0,87.9
+27,Andorra,High income,2019,3155150256.0,90.7
+28,Andorra,High income,2020,2891002460.0,93.2
+29,Andorra,High income,2021,3325143693.0,93.9
+30,United Arab Emirates,High income,2000,104337000000.0,23.6
+31,United Arab Emirates,High income,2005,180617000000.0,40.0
+32,United Arab Emirates,High income,2010,300189000000.0,68.0
+33,United Arab Emirates,High income,2015,370275000000.0,90.5
+34,United Arab Emirates,High income,2019,417990000000.0,99.2
+35,United Arab Emirates,High income,2020,349473000000.0,100.0
+36,United Arab Emirates,High income,2021,415179000000.0,100.0
+37,Argentina,Upper middle income,2000,284204000000.0,7.0
+38,Argentina,Upper middle income,2005,198737000000.0,17.7
+39,Argentina,Upper middle income,2010,423627000000.0,45.0
+40,Argentina,Upper middle income,2015,594749000000.0,68.0
+41,Argentina,Upper middle income,2019,447755000000.0,79.9
+42,Argentina,Upper middle income,2020,385741000000.0,85.5
+43,Argentina,Upper middle income,2021,487903000000.0,87.2
+44,Armenia,Upper middle income,2000,1911563669.0,1.3
+45,Armenia,Upper middle income,2005,4900469511.0,5.3
+46,Armenia,Upper middle income,2010,9260285756.0,25.0
+47,Armenia,Upper middle income,2015,10553337518.0,59.1
+48,Armenia,Upper middle income,2019,13619290539.0,66.5
+49,Armenia,Upper middle income,2020,12641698583.0,76.5
+50,Armenia,Upper middle income,2021,13878908629.0,78.6
+51,Antigua and Barbuda,High income,2000,826370370.4,6.5
+52,Antigua and Barbuda,High income,2005,1022962963.0,27.0
+53,Antigua and Barbuda,High income,2010,1148700000.0,47.0
+54,Antigua and Barbuda,High income,2015,1437755556.0,70.0
+55,Antigua and Barbuda,High income,2019,1725351852.0,95.7
+56,Antigua and Barbuda,High income,2020,1410796296.0,95.7
+57,Antigua and Barbuda,High income,2021,1601366667.0,95.7
+58,Australia,High income,2000,416168000000.0,46.8
+59,Australia,High income,2005,695693000000.0,63.0
+60,Australia,High income,2010,1148890000000.0,76.0
+61,Australia,High income,2015,1351770000000.0,84.6
+62,Australia,High income,2019,1394670000000.0,93.6
+63,Australia,High income,2020,1330380000000.0,96.4
+64,Australia,High income,2021,1559030000000.0,96.2
+65,Austria,High income,2000,197290000000.0,33.7
+66,Austria,High income,2005,316092000000.0,58.0
+67,Austria,High income,2010,392275000000.0,75.2
+68,Austria,High income,2015,381971000000.0,83.9
+69,Austria,High income,2019,444596000000.0,87.8
+70,Austria,High income,2020,435049000000.0,87.5
+71,Austria,High income,2021,479295000000.0,92.5
+72,Azerbaijan,Upper middle income,2000,5272615723.0,0.1
+73,Azerbaijan,Upper middle income,2005,13245421881.0,8.0
+74,Azerbaijan,Upper middle income,2010,52909294792.0,46.0
+75,Azerbaijan,Upper middle income,2015,53076235355.0,77.0
+76,Azerbaijan,Upper middle income,2019,48174235294.0,81.1
+77,Azerbaijan,Upper middle income,2020,42693000000.0,84.6
+78,Azerbaijan,Upper middle income,2021,54825411765.0,86.0
+79,Burundi,Low income,2000,870486065.9,0.1
+80,Burundi,Low income,2005,1117113080.0,0.5
+81,Burundi,Low income,2010,2032135192.0,1.0
+82,Burundi,Low income,2015,3104003546.0,2.0
+83,Burundi,Low income,2019,2576518880.0,2.7
+84,Burundi,Low income,2020,2649680261.0,3.8
+85,Burundi,Low income,2021,2775798697.0,5.8
+86,Belgium,High income,2000,236792000000.0,29.4
+87,Belgium,High income,2005,385715000000.0,55.8
+88,Belgium,High income,2010,481421000000.0,75.0
+89,Belgium,High income,2015,462336000000.0,85.1
+90,Belgium,High income,2019,535866000000.0,90.3
+91,Belgium,High income,2020,526264000000.0,91.5
+92,Belgium,High income,2021,600749000000.0,92.8
+93,Benin,Lower middle income,2000,3519991440.0,0.2
+94,Benin,Lower middle income,2005,6567654954.0,1.3
+95,Benin,Lower middle income,2010,9535345016.0,3.1
+96,Benin,Lower middle income,2015,11388160997.0,11.3
+97,Benin,Lower middle income,2019,14390708757.0,22.4
+98,Benin,Lower middle income,2020,15686741894.0,28.2
+99,Benin,Lower middle income,2021,17687623535.0,34.0
+100,Burkina Faso,Low income,2000,2968370088.0,0.1
+101,Burkina Faso,Low income,2005,6146353173.0,0.5
+102,Burkina Faso,Low income,2010,10109619741.0,2.4
+103,Burkina Faso,Low income,2015,11832159316.0,6.6
+104,Burkina Faso,Low income,2019,16032813502.0,9.3
+105,Burkina Faso,Low income,2020,17725010531.0,13.9
+106,Burkina Faso,Low income,2021,19642668880.0,21.6
+107,Bangladesh,Lower middle income,2000,53369787319.0,0.1
+108,Bangladesh,Lower middle income,2005,69442943089.0,0.2
+109,Bangladesh,Lower middle income,2010,115279000000.0,3.7
+110,Bangladesh,Lower middle income,2015,195079000000.0,12.9
+111,Bangladesh,Lower middle income,2019,351238000000.0,27.8
+112,Bangladesh,Lower middle income,2020,373902000000.0,32.9
+113,Bangladesh,Lower middle income,2021,416265000000.0,38.9
+114,Bulgaria,Upper middle income,2000,13245990274.0,5.4
+115,Bulgaria,Upper middle income,2005,29868657858.0,20.0
+116,Bulgaria,Upper middle income,2010,50760929303.0,46.2
+117,Bulgaria,Upper middle income,2015,50811995689.0,56.7
+118,Bulgaria,Upper middle income,2019,68881010246.0,67.9
+119,Bulgaria,Upper middle income,2020,70368758395.0,70.2
+120,Bulgaria,Upper middle income,2021,84041493016.0,75.3
+121,Bahrain,High income,2000,9062898936.0,6.2
+122,Bahrain,High income,2005,15968723404.0,21.3
+123,Bahrain,High income,2010,25713271277.0,55.0
+124,Bahrain,High income,2015,31050638298.0,93.5
+125,Bahrain,High income,2019,38653318085.0,99.7
+126,Bahrain,High income,2020,34621807713.0,99.7
+127,Bahrain,High income,2021,39288670213.0,100.0
+128,Bosnia and Herzegovina,Upper middle income,2000,5567772769.0,1.1
+129,Bosnia and Herzegovina,Upper middle income,2005,11222796337.0,21.3
+130,Bosnia and Herzegovina,Upper middle income,2010,17176315804.0,42.8
+131,Bosnia and Herzegovina,Upper middle income,2015,16404348871.0,52.6
+132,Bosnia and Herzegovina,Upper middle income,2019,20482608755.0,69.9
+133,Bosnia and Herzegovina,Upper middle income,2020,20226036564.0,73.2
+134,Bosnia and Herzegovina,Upper middle income,2021,23649568277.0,75.7
+135,Belarus,Upper middle income,2000,12736780455.0,1.9
+136,Belarus,Upper middle income,2010,57231904543.0,31.8
+137,Belarus,Upper middle income,2015,56454889147.0,62.2
+138,Belarus,Upper middle income,2019,64410122847.0,82.8
+139,Belarus,Upper middle income,2020,61371755326.0,85.1
+140,Belarus,Upper middle income,2021,69673747132.0,86.9
+141,Belize,Upper middle income,2000,1134756761.0,6.0
+142,Belize,Upper middle income,2005,1468145956.0,17.0
+143,Belize,Upper middle income,2010,1739070295.0,28.2
+144,Belize,Upper middle income,2015,2194709309.0,41.6
+145,Belize,Upper middle income,2019,2386792476.0,57.1
+146,Belize,Upper middle income,2020,2047727810.0,59.5
+147,Belize,Upper middle income,2021,2424575179.0,62.0
+148,Bermuda,High income,2000,3480219000.0,42.9
+149,Bermuda,High income,2005,4868136000.0,65.4
+150,Bermuda,High income,2010,6634526000.0,84.2
+151,Bermuda,High income,2015,6654541000.0,98.3
+152,Brazil,Upper middle income,2000,655448000000.0,2.9
+153,Brazil,Upper middle income,2005,891634000000.0,21.0
+154,Brazil,Upper middle income,2010,2208840000000.0,40.7
+155,Brazil,Upper middle income,2015,1802210000000.0,58.3
+156,Brazil,Upper middle income,2019,1873290000000.0,73.9
+157,Brazil,Upper middle income,2020,1476110000000.0,81.3
+158,Brazil,Upper middle income,2021,1649620000000.0,80.7
+159,Barbados,High income,2000,3059500000.0,4.0
+160,Barbados,High income,2005,3819500000.0,52.5
+161,Barbados,High income,2010,4531150000.0,65.1
+162,Barbados,High income,2015,4734000000.0,76.1
+163,Barbados,High income,2019,5341100000.0,83.2
+164,Barbados,High income,2020,4738800000.0,82.5
+165,Barbados,High income,2021,4923100000.0,85.8
+166,Brunei Darussalam,High income,2000,6001282104.0,9.0
+167,Brunei Darussalam,High income,2005,9531420028.0,36.5
+168,Brunei Darussalam,High income,2010,13707280260.0,53.0
+169,Brunei Darussalam,High income,2015,12930291488.0,71.2
+170,Brunei Darussalam,High income,2019,13469235365.0,95.0
+171,Brunei Darussalam,High income,2020,12005799654.0,96.1
+172,Brunei Darussalam,High income,2021,14006496617.0,98.1
+173,Bhutan,Lower middle income,2000,424448931.0,0.4
+174,Bhutan,Lower middle income,2005,796938572.0,3.8
+175,Bhutan,Lower middle income,2010,1547990912.0,13.6
+176,Bhutan,Lower middle income,2015,2003596839.0,39.8
+177,Bhutan,Lower middle income,2019,2735683409.0,74.2
+178,Bhutan,Lower middle income,2020,2457604043.0,79.9
+179,Bhutan,Lower middle income,2021,2768003873.0,85.6
+180,Botswana,Upper middle income,2000,5788329609.0,2.9
+181,Botswana,Upper middle income,2005,9918907108.0,3.3
+182,Botswana,Upper middle income,2010,12637273429.0,6.0
+183,Botswana,Upper middle income,2015,13530748845.0,37.3
+184,Botswana,Upper middle income,2019,16725908667.0,64.8
+185,Botswana,Upper middle income,2020,14960291541.0,72.7
+186,Botswana,Upper middle income,2021,18737066311.0,73.5
+187,Central African Republic,Low income,2000,916777282.7,0.1
+188,Central African Republic,Low income,2005,1337894379.0,0.3
+189,Central African Republic,Low income,2010,2142591540.0,2.0
+190,Central African Republic,Low income,2015,1695825714.0,2.9
+191,Central African Republic,Low income,2019,2221301351.0,7.5
+192,Central African Republic,Low income,2020,2326720900.0,8.6
+193,Central African Republic,Low income,2021,2516498412.0,10.6
+194,Canada,High income,2000,744773000000.0,51.3
+195,Canada,High income,2005,1173110000000.0,71.7
+196,Canada,High income,2010,1617340000000.0,80.3
+197,Canada,High income,2015,1556510000000.0,90.0
+198,Canada,High income,2019,1743730000000.0,91.9
+199,Canada,High income,2020,1655680000000.0,92.3
+200,Canada,High income,2021,2007470000000.0,92.8
+201,Switzerland,High income,2000,279216000000.0,47.1
+202,Switzerland,High income,2005,418285000000.0,70.1
+203,Switzerland,High income,2010,598851000000.0,83.9
+204,Switzerland,High income,2015,694118000000.0,87.5
+205,Switzerland,High income,2019,721369000000.0,93.1
+206,Switzerland,High income,2020,741999000000.0,94.4
+207,Switzerland,High income,2021,813409000000.0,95.6
+208,Chile,High income,2000,78339750717.0,16.6
+209,Chile,High income,2005,122294000000.0,31.2
+210,Chile,High income,2010,217051000000.0,45.0
+211,Chile,High income,2015,242450000000.0,76.6
+212,Chile,High income,2019,278599000000.0,85.0
+213,Chile,High income,2020,254258000000.0,86.4
+214,Chile,High income,2021,316581000000.0,90.2
+215,China,Upper middle income,2000,1211330000000.0,1.8
+216,China,Upper middle income,2005,2285960000000.0,8.5
+217,China,Upper middle income,2010,6087190000000.0,34.3
+218,China,Upper middle income,2015,11061600000000.0,50.3
+219,China,Upper middle income,2019,14280000000000.0,64.1
+220,China,Upper middle income,2020,14687700000000.0,70.1
+221,China,Upper middle income,2021,17820500000000.0,73.1
+222,Cameroon,Lower middle income,2000,10566579295.0,0.3
+223,Cameroon,Lower middle income,2005,19509852207.0,1.4
+224,Cameroon,Lower middle income,2010,27507501821.0,4.3
+225,Cameroon,Lower middle income,2015,32210233020.0,18.3
+226,Cameroon,Lower middle income,2019,39670976453.0,36.5
+227,Cameroon,Lower middle income,2020,40773241177.0,45.5
+228,Cameroon,Lower middle income,2021,44993521774.0,45.6
+229,Colombia,Upper middle income,2000,99875074951.0,2.2
+230,Colombia,Upper middle income,2005,145601000000.0,11.0
+231,Colombia,Upper middle income,2010,286499000000.0,36.5
+232,Colombia,Upper middle income,2015,293492000000.0,55.9
+233,Colombia,Upper middle income,2019,323032000000.0,65.0
+234,Colombia,Upper middle income,2020,270151000000.0,70.9
+235,Colombia,Upper middle income,2021,318512000000.0,73.0
+236,Comoros,Lower middle income,2000,351136579.6,0.3
+237,Comoros,Lower middle income,2005,653845169.2,2.0
+238,Comoros,Lower middle income,2010,907978731.7,5.1
+239,Comoros,Lower middle income,2015,966029599.8,7.5
+240,Comoros,Lower middle income,2019,1195019531.0,16.4
+241,Comoros,Lower middle income,2020,1225039196.0,21.2
+242,Comoros,Lower middle income,2021,1296089479.0,27.3
+243,Cabo Verde,Lower middle income,2000,539227277.6,1.8
+244,Cabo Verde,Lower middle income,2005,972241676.9,6.1
+245,Cabo Verde,Lower middle income,2010,1824751468.0,30.0
+246,Cabo Verde,Lower middle income,2015,1749857620.0,42.7
+247,Cabo Verde,Lower middle income,2019,2252177124.0,61.9
+248,Cabo Verde,Lower middle income,2020,1821565614.0,63.2
+249,Cabo Verde,Lower middle income,2021,1997866379.0,69.8
+250,Costa Rica,Upper middle income,2000,15013629659.0,5.8
+251,Costa Rica,Upper middle income,2005,20040642477.0,22.1
+252,Costa Rica,Upper middle income,2010,37658614804.0,36.5
+253,Costa Rica,Upper middle income,2015,56441920821.0,59.8
+254,Costa Rica,Upper middle income,2019,64417670521.0,81.2
+255,Costa Rica,Upper middle income,2020,62395610760.0,80.5
+256,Costa Rica,Upper middle income,2021,64960725734.0,82.8
+257,Cuba,Upper middle income,2000,30565400000.0,0.5
+258,Cuba,Upper middle income,2005,42643836100.0,9.7
+259,Cuba,Upper middle income,2010,59562962963.0,15.9
+260,Cuba,Upper middle income,2015,87132800000.0,37.3
+261,Cuba,Upper middle income,2019,103428000000.0,68.0
+262,Cuba,Upper middle income,2020,107352000000.0,71.1
+263,Cayman Islands,High income,2010,4156841107.0,66.0
+264,Cayman Islands,High income,2015,4708167233.0,77.0
+265,Cyprus,High income,2000,9985844486.0,15.3
+266,Cyprus,High income,2005,18433411267.0,32.8
+267,Cyprus,High income,2010,25732125694.0,53.0
+268,Cyprus,High income,2015,19842492367.0,71.7
+269,Cyprus,High income,2019,25947027570.0,86.1
+270,Cyprus,High income,2020,25227201184.0,90.8
+271,Cyprus,High income,2021,29482917679.0,90.8
+272,Czechia,High income,2000,61828166496.0,9.8
+273,Czechia,High income,2005,137143000000.0,35.3
+274,Czechia,High income,2010,209070000000.0,68.8
+275,Czechia,High income,2015,188033000000.0,75.7
+276,Czechia,High income,2019,252548000000.0,80.9
+277,Czechia,High income,2020,245975000000.0,81.3
+278,Czechia,High income,2021,281791000000.0,82.7
+279,Germany,High income,2000,1947980000000.0,30.2
+280,Germany,High income,2005,2846860000000.0,68.7
+281,Germany,High income,2010,3399670000000.0,82.0
+282,Germany,High income,2015,3357590000000.0,87.6
+283,Germany,High income,2019,3889180000000.0,88.1
+284,Germany,High income,2020,3887730000000.0,89.8
+285,Germany,High income,2021,4278500000000.0,91.4
+286,Djibouti,Lower middle income,2000,551230861.9,0.2
+287,Djibouti,Lower middle income,2005,708633194.7,1.0
+288,Djibouti,Lower middle income,2010,1128611700.0,6.5
+289,Djibouti,Lower middle income,2015,2424391785.0,22.9
+290,Djibouti,Lower middle income,2019,3088853639.0,59.3
+291,Djibouti,Lower middle income,2020,3185150981.0,61.3
+292,Djibouti,Lower middle income,2021,3385825229.0,68.9
+293,Dominica,Upper middle income,2000,333470370.4,8.8
+294,Dominica,Upper middle income,2005,364255555.6,38.5
+295,Dominica,Upper middle income,2010,493825925.9,47.5
+296,Dominica,Upper middle income,2015,540737037.0,65.0
+297,Dominica,Upper middle income,2019,611537037.0,73.4
+298,Dominica,Upper middle income,2020,504214814.8,77.1
+299,Dominica,Upper middle income,2021,555266666.7,80.9
+300,Denmark,High income,2000,164159000000.0,39.2
+301,Denmark,High income,2005,264467000000.0,82.7
+302,Denmark,High income,2010,321995000000.0,88.7
+303,Denmark,High income,2015,302673000000.0,96.3
+304,Denmark,High income,2019,346499000000.0,98.0
+305,Denmark,High income,2020,354763000000.0,96.5
+306,Denmark,High income,2021,405688000000.0,98.9
+307,Dominican Republic,Upper middle income,2000,24305780629.0,3.7
+308,Dominican Republic,Upper middle income,2005,35777560684.0,11.5
+309,Dominican Republic,Upper middle income,2010,53860187258.0,31.4
+310,Dominican Republic,Upper middle income,2015,71164826837.0,54.2
+311,Dominican Republic,Upper middle income,2019,88941372558.0,79.7
+312,Dominican Republic,Upper middle income,2020,78844656298.0,82.2
+313,Dominican Republic,Upper middle income,2021,94243425938.0,85.2
+314,Algeria,Lower middle income,2000,54790398570.0,0.5
+315,Algeria,Lower middle income,2005,103198000000.0,5.8
+316,Algeria,Lower middle income,2010,161207000000.0,12.5
+317,Algeria,Lower middle income,2015,165979000000.0,38.2
+318,Algeria,Lower middle income,2019,171760000000.0,59.0
+319,Algeria,Lower middle income,2020,145744000000.0,64.0
+320,Algeria,Lower middle income,2021,163472000000.0,70.8
+321,Ecuador,Upper middle income,2000,18327764882.0,1.5
+322,Ecuador,Upper middle income,2005,41507085000.0,6.0
+323,Ecuador,Upper middle income,2010,69555367000.0,29.0
+324,Ecuador,Upper middle income,2015,99290381000.0,48.9
+325,Ecuador,Upper middle income,2019,108108000000.0,59.2
+326,Ecuador,Upper middle income,2020,99291124000.0,70.7
+327,Ecuador,Upper middle income,2021,106166000000.0,76.2
+328,Eritrea,Low income,2000,706370815.6,0.1
+329,Eritrea,Low income,2010,1589515447.0,0.6
+330,Spain,High income,2000,598363000000.0,13.6
+331,Spain,High income,2005,1153720000000.0,47.9
+332,Spain,High income,2010,1422110000000.0,65.8
+333,Spain,High income,2015,1196160000000.0,78.7
+334,Spain,High income,2019,1394320000000.0,90.7
+335,Spain,High income,2020,1278130000000.0,93.2
+336,Spain,High income,2021,1445650000000.0,93.9
+337,Estonia,High income,2000,5686579748.0,28.6
+338,Estonia,High income,2005,14106790200.0,61.5
+339,Estonia,High income,2010,19523477326.0,74.1
+340,Estonia,High income,2015,22890762090.0,88.4
+341,Estonia,High income,2019,31081901909.0,90.2
+342,Estonia,High income,2020,31370395573.0,89.1
+343,Estonia,High income,2021,37191166152.0,91.0
+344,Ethiopia,Low income,2000,8242349618.0,0.0
+345,Ethiopia,Low income,2005,12401139454.0,0.2
+346,Ethiopia,Low income,2010,29933790334.0,0.8
+347,Ethiopia,Low income,2015,64589328551.0,13.9
+348,Ethiopia,Low income,2019,95912607722.0,16.2
+349,Ethiopia,Low income,2020,107658000000.0,16.4
+350,Ethiopia,Low income,2021,111262000000.0,16.7
+351,Finland,High income,2000,126020000000.0,37.2
+352,Finland,High income,2005,204885000000.0,74.5
+353,Finland,High income,2010,249424000000.0,86.9
+354,Finland,High income,2015,234534000000.0,86.4
+355,Finland,High income,2019,268515000000.0,89.6
+356,Finland,High income,2020,271886000000.0,92.2
+357,Finland,High income,2021,296470000000.0,92.8
+358,Fiji,Upper middle income,2000,1678219508.0,1.5
+359,Fiji,Upper middle income,2005,2980403845.0,8.5
+360,Fiji,Upper middle income,2010,3140166713.0,20.0
+361,Fiji,Upper middle income,2015,4682479912.0,42.5
+362,Fiji,Upper middle income,2019,5444407214.0,77.2
+363,Fiji,Upper middle income,2020,4432466237.0,84.9
+364,Fiji,Upper middle income,2021,4305031631.0,87.7
+365,France,High income,2000,1365640000000.0,14.3
+366,France,High income,2005,2196950000000.0,42.9
+367,France,High income,2010,2645190000000.0,77.3
+368,France,High income,2015,2439190000000.0,78.0
+369,France,High income,2019,2728870000000.0,83.3
+370,France,High income,2020,2647420000000.0,84.7
+371,France,High income,2021,2959360000000.0,86.1
+372,Faroe Islands,High income,2000,1067109531.0,32.9
+373,Faroe Islands,High income,2005,1759739599.0,67.9
+374,Faroe Islands,High income,2010,2331796784.0,75.2
+375,Faroe Islands,High income,2015,2573905971.0,94.2
+376,Gabon,Upper middle income,2000,5080483629.0,1.2
+377,Gabon,Upper middle income,2005,9582783991.0,4.9
+378,Gabon,Upper middle income,2010,14372593020.0,13.0
+379,Gabon,Upper middle income,2015,14383107763.0,45.8
+380,Gabon,Upper middle income,2019,16874405465.0,68.7
+381,Gabon,Upper middle income,2020,15314577155.0,70.8
+382,Gabon,Upper middle income,2021,20217946922.0,71.7
+383,United Kingdom,High income,2000,1665530000000.0,26.8
+384,United Kingdom,High income,2005,2543180000000.0,70.0
+385,United Kingdom,High income,2010,2485480000000.0,85.0
+386,United Kingdom,High income,2015,2927910000000.0,92.0
+387,United Kingdom,High income,2019,2851410000000.0,92.5
+388,United Kingdom,High income,2020,2697810000000.0,94.8
+389,United Kingdom,High income,2021,3141510000000.0,96.7
+390,Georgia,Upper middle income,2000,3057475335.0,0.5
+391,Georgia,Upper middle income,2005,6410912050.0,6.1
+392,Georgia,Upper middle income,2010,12243217071.0,26.9
+393,Georgia,Upper middle income,2015,14953673796.0,47.6
+394,Georgia,Upper middle income,2019,17470436259.0,68.8
+395,Georgia,Upper middle income,2020,15842922533.0,72.5
+396,Georgia,Upper middle income,2021,18629365612.0,76.4
+397,Ghana,Lower middle income,2000,4982850662.0,0.2
+398,Ghana,Lower middle income,2005,10744568381.0,1.8
+399,Ghana,Lower middle income,2010,32197655567.0,7.8
+400,Ghana,Lower middle income,2015,49406009812.0,23.0
+401,Ghana,Lower middle income,2019,68337974418.0,45.0
+402,Ghana,Lower middle income,2020,70043095504.0,56.7
+403,Ghana,Lower middle income,2021,79524421861.0,68.2
+404,Guinea,Lower middle income,2000,2995361111.0,0.1
+405,Guinea,Lower middle income,2005,2937071741.0,0.5
+406,Guinea,Lower middle income,2010,6853467832.0,1.0
+407,Guinea,Lower middle income,2015,8794202394.0,9.2
+408,Guinea,Lower middle income,2019,13442861496.0,23.4
+409,Guinea,Lower middle income,2020,14177835841.0,28.8
+410,Guinea,Lower middle income,2021,16091817842.0,34.7
+411,Guinea-Bissau,Low income,2000,371095522.0,0.2
+412,Guinea-Bissau,Low income,2005,587029096.0,1.9
+413,Guinea-Bissau,Low income,2010,849878489.1,2.5
+414,Guinea-Bissau,Low income,2015,1048229633.0,6.1
+415,Guinea-Bissau,Low income,2019,1439638411.0,22.9
+416,Guinea-Bissau,Low income,2020,1431758232.0,27.9
+417,Guinea-Bissau,Low income,2021,1638517607.0,35.2
+418,Equatorial Guinea,Upper middle income,2000,1045998496.0,0.1
+419,Equatorial Guinea,Upper middle income,2005,8217369093.0,1.1
+420,Equatorial Guinea,Upper middle income,2010,16314443436.0,6.0
+421,Equatorial Guinea,Upper middle income,2015,13185496881.0,21.3
+422,Equatorial Guinea,Upper middle income,2019,11364133546.0,49.1
+423,Equatorial Guinea,Upper middle income,2020,9893816016.0,53.8
+424,Equatorial Guinea,Upper middle income,2021,12104994084.0,53.9
+425,Greece,High income,2000,130458000000.0,9.1
+426,Greece,High income,2005,247875000000.0,24.0
+427,Greece,High income,2010,297125000000.0,44.4
+428,Greece,High income,2015,195684000000.0,66.8
+429,Greece,High income,2019,205253000000.0,75.7
+430,Greece,High income,2020,188480000000.0,78.1
+431,Greece,High income,2021,214668000000.0,78.5
+432,Grenada,Upper middle income,2000,520044370.4,4.1
+433,Grenada,Upper middle income,2005,695555555.6,20.5
+434,Grenada,Upper middle income,2010,771014814.8,27.0
+435,Grenada,Upper middle income,2015,997007407.4,52.5
+436,Grenada,Upper middle income,2019,1213485185.0,69.6
+437,Grenada,Upper middle income,2020,1043411111.0,74.7
+438,Grenada,Upper middle income,2021,1122800000.0,77.8
+439,Greenland,High income,2000,1068025016.0,31.7
+440,Greenland,High income,2005,1849802648.0,57.7
+441,Greenland,High income,2010,2503167187.0,63.0
+442,Greenland,High income,2015,2499113023.0,67.6
+443,Guatemala,Upper middle income,2000,19288929030.0,0.7
+444,Guatemala,Upper middle income,2005,26783389294.0,5.7
+445,Guatemala,Upper middle income,2010,40676578423.0,10.5
+446,Guatemala,Upper middle income,2015,62186064719.0,28.8
+447,Guatemala,Upper middle income,2019,77172317259.0,44.4
+448,Guatemala,Upper middle income,2020,77715183063.0,47.5
+449,Guatemala,Upper middle income,2021,86053083476.0,50.8
+450,Guam,High income,2005,4213000000.0,38.6
+451,Guam,High income,2010,4949000000.0,54.0
+452,Guam,High income,2015,5799000000.0,73.1
+453,Guyana,High income,2000,712667896.7,0.6
+454,Guyana,High income,2005,824880550.3,5.7
+455,Guyana,High income,2010,3432912517.0,29.9
+456,Guyana,High income,2015,4279840194.0,34.0
+457,Guyana,High income,2019,5173760192.0,78.6
+458,Guyana,High income,2020,5471256595.0,81.8
+459,Guyana,High income,2021,8041362110.0,84.8
+460,Honduras,Lower middle income,2000,7186638029.0,1.2
+461,Honduras,Lower middle income,2005,9757012697.0,6.5
+462,Honduras,Lower middle income,2010,15839344592.0,11.1
+463,Honduras,Lower middle income,2015,20979791685.0,27.1
+464,Honduras,Lower middle income,2019,25089937022.0,39.4
+465,Honduras,Lower middle income,2020,23827859227.0,43.5
+466,Honduras,Lower middle income,2021,28488721681.0,48.1
+467,Croatia,High income,2000,22128719418.0,6.6
+468,Croatia,High income,2005,45025332740.0,33.1
+469,Croatia,High income,2010,58819429750.0,56.6
+470,Croatia,High income,2015,50857353544.0,69.8
+471,Croatia,High income,2019,61470295888.0,79.1
+472,Croatia,High income,2020,57760024674.0,78.3
+473,Croatia,High income,2021,69081236641.0,81.3
+474,Haiti,Lower middle income,2000,6813565983.0,0.2
+475,Haiti,Lower middle income,2005,7030149791.0,6.4
+476,Haiti,Lower middle income,2010,11859312627.0,8.4
+477,Haiti,Lower middle income,2015,14849629408.0,14.2
+478,Haiti,Lower middle income,2019,15016090930.0,32.5
+479,Haiti,Lower middle income,2020,14508222518.0,36.4
+480,Haiti,Lower middle income,2021,20877414953.0,38.9
+481,Hungary,High income,2000,47218405892.0,7.0
+482,Hungary,High income,2005,113211000000.0,39.0
+483,Hungary,High income,2010,132175000000.0,65.0
+484,Hungary,High income,2015,125174000000.0,72.8
+485,Hungary,High income,2019,164020000000.0,80.4
+486,Hungary,High income,2020,157227000000.0,84.8
+487,Hungary,High income,2021,182090000000.0,88.6
+488,Indonesia,Upper middle income,2000,165021000000.0,0.9
+489,Indonesia,Upper middle income,2005,285869000000.0,3.6
+490,Indonesia,Upper middle income,2010,755094000000.0,10.9
+491,Indonesia,Upper middle income,2015,860854000000.0,22.1
+492,Indonesia,Upper middle income,2019,1119100000000.0,47.7
+493,Indonesia,Upper middle income,2020,1059050000000.0,53.7
+494,Indonesia,Upper middle income,2021,1186510000000.0,62.1
+495,India,Lower middle income,2000,468395000000.0,0.5
+496,India,Lower middle income,2005,820382000000.0,2.4
+497,India,Lower middle income,2010,1675620000000.0,7.5
+498,India,Lower middle income,2015,2103590000000.0,14.9
+499,India,Lower middle income,2019,2835610000000.0,29.5
+500,India,Lower middle income,2020,2671600000000.0,43.4
+501,India,Lower middle income,2021,3150310000000.0,46.3
+502,Ireland,High income,2000,100208000000.0,17.9
+503,Ireland,High income,2005,211877000000.0,41.6
+504,Ireland,High income,2010,221914000000.0,69.9
+505,Ireland,High income,2015,292364000000.0,83.5
+506,Ireland,High income,2019,398933000000.0,87.0
+507,Ireland,High income,2020,428609000000.0,92.0
+508,Ireland,High income,2021,513392000000.0,95.2
+509,Iraq,Upper middle income,2005,49954890353.0,0.9
+510,Iraq,Upper middle income,2010,138517000000.0,2.5
+511,Iraq,Upper middle income,2015,166774000000.0,15.2
+512,Iraq,Upper middle income,2019,233636000000.0,44.3
+513,Iraq,Upper middle income,2020,180924000000.0,45.8
+514,Iraq,Upper middle income,2021,207692000000.0,48.9
+515,Iceland,High income,2000,9025660362.0,44.5
+516,Iceland,High income,2005,16852963067.0,87.0
+517,Iceland,High income,2010,13751161918.0,93.4
+518,Iceland,High income,2015,17517210519.0,98.2
+519,Iceland,High income,2019,24681343649.0,99.5
+520,Iceland,High income,2020,21565767851.0,99.5
+521,Iceland,High income,2021,25595940170.0,99.7
+522,Israel,High income,2000,136036000000.0,20.9
+523,Israel,High income,2005,147084000000.0,25.2
+524,Israel,High income,2010,238364000000.0,67.5
+525,Israel,High income,2015,303414000000.0,77.4
+526,Israel,High income,2019,402471000000.0,86.8
+527,Israel,High income,2020,413268000000.0,90.1
+528,Israel,High income,2021,488527000000.0,90.3
+529,Italy,High income,2000,1146680000000.0,23.1
+530,Italy,High income,2005,1858220000000.0,35.0
+531,Italy,High income,2010,2136100000000.0,53.7
+532,Italy,High income,2015,1836640000000.0,58.1
+533,Italy,High income,2019,2011300000000.0,67.9
+534,Italy,High income,2020,1897460000000.0,70.5
+535,Italy,High income,2021,2155360000000.0,74.9
+536,Jamaica,Upper middle income,2000,9005064475.0,3.1
+537,Jamaica,Upper middle income,2005,11243865778.0,12.8
+538,Jamaica,Upper middle income,2010,13220549908.0,27.7
+539,Jamaica,Upper middle income,2015,14188936958.0,42.2
+540,Jamaica,Upper middle income,2019,15830766571.0,70.8
+541,Jamaica,Upper middle income,2020,13812421803.0,79.4
+542,Jamaica,Upper middle income,2021,14657586127.0,82.4
+543,Jordan,Lower middle income,2000,8460789845.0,2.6
+544,Jordan,Lower middle income,2005,12588998590.0,12.9
+545,Jordan,Lower middle income,2010,27133804225.0,27.2
+546,Jordan,Lower middle income,2015,38587017887.0,54.2
+547,Jordan,Lower middle income,2019,44502816901.0,70.1
+548,Jordan,Lower middle income,2020,43700383099.0,75.4
+549,Jordan,Lower middle income,2021,46296100141.0,82.8
+550,Japan,High income,2000,4968360000000.0,30.0
+551,Japan,High income,2005,4831470000000.0,66.9
+552,Japan,High income,2010,5759070000000.0,78.2
+553,Japan,High income,2015,4444930000000.0,91.1
+554,Japan,High income,2019,5117990000000.0,92.7
+555,Japan,High income,2020,5055590000000.0,90.2
+556,Japan,High income,2021,5034620000000.0,82.9
+557,Kazakhstan,Upper middle income,2000,18291990662.0,0.7
+558,Kazakhstan,Upper middle income,2005,57123671734.0,3.0
+559,Kazakhstan,Upper middle income,2010,148047000000.0,31.6
+560,Kazakhstan,Upper middle income,2015,184388000000.0,70.8
+561,Kazakhstan,Upper middle income,2019,181667000000.0,81.9
+562,Kazakhstan,Upper middle income,2020,171082000000.0,85.9
+563,Kazakhstan,Upper middle income,2021,197112000000.0,90.9
+564,Kenya,Lower middle income,2000,12705350098.0,0.3
+565,Kenya,Lower middle income,2005,18737895513.0,3.1
+566,Kenya,Lower middle income,2010,45405615064.0,7.2
+567,Kenya,Lower middle income,2015,70120446897.0,16.6
+568,Kenya,Lower middle income,2019,100378000000.0,22.7
+569,Kenya,Lower middle income,2020,100658000000.0,25.5
+570,Kenya,Lower middle income,2021,109704000000.0,28.8
+571,Cambodia,Lower middle income,2000,3654031716.0,0.0
+572,Cambodia,Lower middle income,2005,6293046162.0,0.3
+573,Cambodia,Lower middle income,2010,11242275288.0,1.3
+574,Cambodia,Lower middle income,2015,18049954289.0,18.0
+575,Cambodia,Lower middle income,2019,27089390033.0,52.3
+576,Cambodia,Lower middle income,2020,25872797892.0,53.7
+577,Cambodia,Lower middle income,2021,26961061152.0,60.2
+578,Kiribati,Lower middle income,2000,67253121.62,1.8
+579,Kiribati,Lower middle income,2005,112136256.3,4.0
+580,Kiribati,Lower middle income,2010,155305602.2,9.1
+581,Kiribati,Lower middle income,2015,170292316.8,14.9
+582,Kiribati,Lower middle income,2019,175181629.3,43.0
+583,Kiribati,Lower middle income,2020,177553274.6,45.1
+584,Kiribati,Lower middle income,2021,227610079.1,53.6
+585,Kuwait,High income,2000,37718743480.0,6.7
+586,Kuwait,High income,2005,80798630137.0,25.9
+587,Kuwait,High income,2010,115417000000.0,61.4
+588,Kuwait,High income,2015,114586000000.0,82.0
+589,Kuwait,High income,2019,136192000000.0,99.5
+590,Kuwait,High income,2020,105949000000.0,99.1
+591,Kuwait,High income,2021,137384000000.0,99.7
+592,Lebanon,Lower middle income,2000,17260364842.0,8.0
+593,Lebanon,Lower middle income,2005,21497336499.0,10.1
+594,Lebanon,Lower middle income,2010,38443907042.0,43.7
+595,Lebanon,Lower middle income,2015,49929337837.0,74.0
+596,Lebanon,Lower middle income,2019,51605959131.0,79.8
+597,Lebanon,Lower middle income,2020,31712128254.0,83.1
+598,Lebanon,Lower middle income,2021,23131941557.0,86.6
+599,Liberia,Low income,2000,874000000.0,0.0
+600,Liberia,Low income,2010,1998000000.0,2.3
+601,Liberia,Low income,2015,3227075700.0,10.0
+602,Liberia,Low income,2019,3319596500.0,23.5
+603,Liberia,Low income,2020,3039982500.0,28.0
+604,Liberia,Low income,2021,3509000000.0,33.6
+605,Libya,Upper middle income,2000,38270983032.0,0.2
+606,Libya,Upper middle income,2005,47334697612.0,3.9
+607,Libya,Upper middle income,2010,75380800665.0,14.0
+608,Liechtenstein,High income,2000,2483889858.0,36.5
+609,Liechtenstein,High income,2005,3659319117.0,63.4
+610,Liechtenstein,High income,2010,5082337238.0,80.0
+611,Liechtenstein,High income,2015,6268515276.0,96.6
+612,Liechtenstein,High income,2019,6436467007.0,93.1
+613,Liechtenstein,High income,2020,6405870210.0,94.4
+614,Liechtenstein,High income,2021,7710380086.0,95.6
+615,Sri Lanka,Lower middle income,2000,16330814180.0,0.6
+616,Sri Lanka,Lower middle income,2005,24405791045.0,1.8
+617,Sri Lanka,Lower middle income,2015,85140955389.0,15.3
+618,Sri Lanka,Lower middle income,2019,89014978344.0,50.7
+619,Sri Lanka,Lower middle income,2020,84440516486.0,59.2
+620,Sri Lanka,Lower middle income,2021,88548049121.0,66.7
+621,Lesotho,Lower middle income,2000,887291687.9,0.2
+622,Lesotho,Lower middle income,2005,1682343527.0,2.6
+623,Lesotho,Lower middle income,2010,2234754242.0,3.9
+624,Lesotho,Lower middle income,2015,2359686725.0,25.0
+625,Lesotho,Lower middle income,2019,2361966946.0,42.3
+626,Lesotho,Lower middle income,2020,2067813019.0,42.9
+627,Lesotho,Lower middle income,2021,2348771013.0,48.0
+628,Lithuania,High income,2000,11524776867.0,6.4
+629,Lithuania,High income,2005,26097677572.0,36.2
+630,Lithuania,High income,2010,37128694028.0,62.1
+631,Lithuania,High income,2015,41435533340.0,71.4
+632,Lithuania,High income,2019,54808531641.0,81.6
+633,Lithuania,High income,2020,56964942999.0,83.1
+634,Lithuania,High income,2021,66798933786.0,86.9
+635,Luxembourg,High income,2000,21230182989.0,22.9
+636,Luxembourg,High income,2005,37672280120.0,70.0
+637,Luxembourg,High income,2010,56213985987.0,90.6
+638,Luxembourg,High income,2015,60071584216.0,96.4
+639,Luxembourg,High income,2019,69890505324.0,97.1
+640,Luxembourg,High income,2020,73699366700.0,98.8
+641,Luxembourg,High income,2021,85584105994.0,98.7
+642,Latvia,High income,2000,7958852839.0,6.3
+643,Latvia,High income,2005,17003459863.0,46.0
+644,Latvia,High income,2010,23956163077.0,68.4
+645,Latvia,High income,2015,27263090547.0,79.2
+646,Latvia,High income,2019,34225547537.0,86.1
+647,Latvia,High income,2020,34390910339.0,88.9
+648,Latvia,High income,2021,39443126174.0,91.2
+649,Morocco,Lower middle income,2000,43017455402.0,0.7
+650,Morocco,Lower middle income,2005,68852658069.0,15.1
+651,Morocco,Lower middle income,2010,100865000000.0,52.0
+652,Morocco,Lower middle income,2015,110414000000.0,57.1
+653,Morocco,Lower middle income,2019,128920000000.0,84.1
+654,Morocco,Lower middle income,2020,121354000000.0,84.1
+655,Morocco,Lower middle income,2021,141818000000.0,88.1
+656,Monaco,High income,2000,2654462665.0,42.2
+657,Monaco,High income,2005,4204652899.0,55.5
+658,Monaco,High income,2010,5367561570.0,75.0
+659,Monaco,High income,2015,6261649891.0,93.4
+660,Monaco,High income,2019,7383944044.0,83.3
+661,Monaco,High income,2020,6739645416.0,84.7
+662,Monaco,High income,2021,8626081321.0,86.1
+663,Madagascar,Low income,2000,4629247204.0,0.2
+664,Madagascar,Low income,2005,5859269753.0,0.6
+665,Madagascar,Low income,2010,9982711338.0,1.7
+666,Madagascar,Low income,2015,11323020701.0,4.2
+667,Madagascar,Low income,2019,14104664679.0,11.8
+668,Madagascar,Low income,2020,13051441204.0,13.7
+669,Madagascar,Low income,2021,14554754117.0,19.7
+670,Maldives,Upper middle income,2000,624337145.3,2.2
+671,Maldives,Upper middle income,2005,1163362434.0,6.9
+672,Maldives,Upper middle income,2010,2588176058.0,26.5
+673,Maldives,Upper middle income,2015,4129505320.0,54.5
+674,Maldives,Upper middle income,2019,5726094798.0,77.5
+675,Maldives,Upper middle income,2020,3712604580.0,77.6
+676,Maldives,Upper middle income,2021,5254366310.0,85.8
+677,Mexico,Upper middle income,2000,742061000000.0,5.1
+678,Mexico,Upper middle income,2005,917572000000.0,17.2
+679,Mexico,Upper middle income,2010,1105420000000.0,31.1
+680,Mexico,Upper middle income,2015,1213290000000.0,57.4
+681,Mexico,Upper middle income,2019,1305210000000.0,69.6
+682,Mexico,Upper middle income,2020,1120740000000.0,71.5
+683,Mexico,Upper middle income,2021,1312560000000.0,75.6
+684,Marshall Islands,Upper middle income,2000,115347500.0,1.5
+685,Marshall Islands,Upper middle income,2005,137666300.0,3.9
+686,Marshall Islands,Upper middle income,2010,160318500.0,7.0
+687,Marshall Islands,Upper middle income,2015,182997300.0,19.3
+688,North Macedonia,Upper middle income,2000,3772859034.0,2.5
+689,North Macedonia,Upper middle income,2005,6258602873.0,26.5
+690,North Macedonia,Upper middle income,2010,9407170321.0,51.9
+691,North Macedonia,Upper middle income,2015,10064519963.0,70.4
+692,North Macedonia,Upper middle income,2019,12606338449.0,81.4
+693,North Macedonia,Upper middle income,2020,12363580535.0,81.4
+694,North Macedonia,Upper middle income,2021,13998355971.0,83.0
+695,Mali,Low income,2000,2961484954.0,0.1
+696,Mali,Low income,2005,6247515888.0,0.5
+697,Mali,Low income,2010,10689168016.0,2.0
+698,Mali,Low income,2015,13104764378.0,10.3
+699,Mali,Low income,2019,17280250810.0,22.3
+700,Mali,Low income,2020,17465392764.0,27.9
+701,Mali,Low income,2021,19309463508.0,34.5
+702,Malta,High income,2000,4069515557.0,13.1
+703,Malta,High income,2005,6416184236.0,41.2
+704,Malta,High income,2010,9035824366.0,63.0
+705,Malta,High income,2015,11091483660.0,76.0
+706,Malta,High income,2019,15992378640.0,85.8
+707,Malta,High income,2020,15252609039.0,86.9
+708,Malta,High income,2021,18087205251.0,87.5
+709,Myanmar,Lower middle income,2005,11986972419.0,0.1
+710,Myanmar,Lower middle income,2010,49540813342.0,0.3
+711,Myanmar,Lower middle income,2015,59687411769.0,10.9
+712,Myanmar,Lower middle income,2019,75072038086.0,30.6
+713,Myanmar,Lower middle income,2020,79045695085.0,42.0
+714,Myanmar,Lower middle income,2021,66262813093.0,44.0
+715,Montenegro,Upper middle income,2005,2257174481.0,27.1
+716,Montenegro,Upper middle income,2010,4142983843.0,37.5
+717,Montenegro,Upper middle income,2015,4054730078.0,68.1
+718,Montenegro,Upper middle income,2019,5542054181.0,73.5
+719,Montenegro,Upper middle income,2020,4769996866.0,77.6
+720,Montenegro,Upper middle income,2021,5861427505.0,82.2
+721,Mongolia,Lower middle income,2000,1136896124.0,1.3
+722,Mongolia,Lower middle income,2010,7189481999.0,10.2
+723,Mongolia,Lower middle income,2015,11619892591.0,22.5
+724,Mongolia,Lower middle income,2019,14206359018.0,51.1
+725,Mongolia,Lower middle income,2020,13312981429.0,65.6
+726,Mongolia,Lower middle income,2021,15286441738.0,84.3
+727,Mozambique,Low income,2000,5930685215.0,0.1
+728,Mozambique,Low income,2005,8868504900.0,0.9
+729,Mozambique,Low income,2010,11411894724.0,4.2
+730,Mozambique,Low income,2015,16208985770.0,6.5
+731,Mozambique,Low income,2019,15512759175.0,14.6
+732,Mozambique,Low income,2020,14235420505.0,16.3
+733,Mozambique,Low income,2021,16168056389.0,17.4
+734,Mauritania,Lower middle income,2000,1779520886.0,0.2
+735,Mauritania,Lower middle income,2005,2936019526.0,0.7
+736,Mauritania,Lower middle income,2010,5628878798.0,4.0
+737,Mauritania,Lower middle income,2015,6166863897.0,17.6
+738,Mauritania,Lower middle income,2019,7894764886.0,42.3
+739,Mauritania,Lower middle income,2020,8260752385.0,53.5
+740,Mauritania,Lower middle income,2021,9222536364.0,58.8
+741,Mauritius,Upper middle income,2000,4663321081.0,7.3
+742,Mauritius,Upper middle income,2005,6488743193.0,15.2
+743,Mauritius,Upper middle income,2010,10003670690.0,28.3
+744,Mauritius,Upper middle income,2015,12007291046.0,50.1
+745,Mauritius,Upper middle income,2019,14436346980.0,61.7
+746,Mauritius,Upper middle income,2020,11408106446.0,64.9
+747,Mauritius,Upper middle income,2021,11484357948.0,67.6
+748,Malawi,Low income,2000,2537307580.0,0.1
+749,Malawi,Low income,2005,5320409651.0,0.4
+750,Malawi,Low income,2010,10128323011.0,2.3
+751,Malawi,Low income,2015,9219474379.0,6.0
+752,Malawi,Low income,2019,11025371147.0,13.4
+753,Malawi,Low income,2020,12056108778.0,18.9
+754,Malawi,Low income,2021,12602334122.0,24.4
+755,Malaysia,Upper middle income,2000,93789736842.0,21.4
+756,Malaysia,Upper middle income,2005,143534000000.0,48.6
+757,Malaysia,Upper middle income,2010,255018000000.0,56.3
+758,Malaysia,Upper middle income,2015,301355000000.0,71.1
+759,Malaysia,Upper middle income,2019,365178000000.0,84.2
+760,Malaysia,Upper middle income,2020,337456000000.0,89.6
+761,Malaysia,Upper middle income,2021,373832000000.0,96.8
+762,Namibia,Upper middle income,2000,3922232165.0,1.6
+763,Namibia,Upper middle income,2005,7248374838.0,4.0
+764,Namibia,Upper middle income,2010,11431412421.0,11.6
+765,Namibia,Upper middle income,2015,11335161084.0,25.7
+766,Namibia,Upper middle income,2019,12541928103.0,44.8
+767,Namibia,Upper middle income,2020,10583748542.0,48.8
+768,Namibia,Upper middle income,2021,12446290855.0,53.0
+769,New Caledonia,High income,2000,3420032041.0,13.9
+770,New Caledonia,High income,2005,6238629487.0,32.4
+771,New Caledonia,High income,2010,9364350077.0,42.0
+772,New Caledonia,High income,2015,8738203074.0,74.0
+773,Niger,Low income,2000,2241753193.0,0.0
+774,Niger,Low income,2005,4383315965.0,0.2
+775,Niger,Low income,2010,7851192502.0,0.8
+776,Niger,Low income,2015,9683867926.0,2.5
+777,Niger,Low income,2019,12889555561.0,16.6
+778,Niger,Low income,2020,13744653103.0,21.5
+779,Niger,Low income,2021,14915002436.0,22.4
+780,Nigeria,Lower middle income,2000,69171451627.0,0.1
+781,Nigeria,Lower middle income,2005,175671000000.0,3.5
+782,Nigeria,Lower middle income,2010,366990000000.0,11.5
+783,Nigeria,Lower middle income,2015,493027000000.0,24.5
+784,Nigeria,Lower middle income,2019,474517000000.0,45.0
+785,Nigeria,Lower middle income,2020,432199000000.0,51.5
+786,Nigeria,Lower middle income,2021,440839000000.0,55.4
+787,Nicaragua,Lower middle income,2000,5107329007.0,1.0
+788,Nicaragua,Lower middle income,2005,6321324279.0,2.6
+789,Nicaragua,Lower middle income,2010,8758619001.0,10.0
+790,Nicaragua,Lower middle income,2015,12756685522.0,19.7
+791,Nicaragua,Lower middle income,2019,12699028991.0,44.9
+792,Nicaragua,Lower middle income,2020,12678162404.0,53.4
+793,Nicaragua,Lower middle income,2021,14145880399.0,57.1
+794,Norway,High income,2000,171457000000.0,52.0
+795,Norway,High income,2005,309979000000.0,82.0
+796,Norway,High income,2010,431052000000.0,93.4
+797,Norway,High income,2015,388160000000.0,96.8
+798,Norway,High income,2019,408743000000.0,98.0
+799,Norway,High income,2020,367633000000.0,97.0
+800,Norway,High income,2021,503368000000.0,99.0
+801,Nepal,Lower middle income,2000,5494252208.0,0.2
+802,Nepal,Lower middle income,2005,8130258415.0,0.8
+803,Nepal,Lower middle income,2010,16002656434.0,7.9
+804,Nepal,Lower middle income,2015,24360801338.0,17.6
+805,Nepal,Lower middle income,2019,34186180696.0,34.8
+806,Nepal,Lower middle income,2020,33433659224.0,45.8
+807,Nepal,Lower middle income,2021,36924841429.0,51.6
+808,Nauru,High income,2019,125160115.5,74.7
+809,Nauru,High income,2020,124685688.2,76.7
+810,Nauru,High income,2021,145536615.9,83.9
+811,New Zealand,High income,2000,52623281957.0,47.4
+812,New Zealand,High income,2005,114720000000.0,62.7
+813,New Zealand,High income,2010,146518000000.0,80.5
+814,New Zealand,High income,2015,178064000000.0,85.2
+815,New Zealand,High income,2019,213092000000.0,89.9
+816,New Zealand,High income,2020,212570000000.0,92.9
+817,New Zealand,High income,2021,255552000000.0,95.9
+818,Oman,High income,2000,19507452536.0,3.5
+819,Oman,High income,2005,31081991678.0,6.7
+820,Oman,High income,2010,64993498049.0,35.8
+821,Oman,High income,2015,78710793238.0,73.5
+822,Oman,High income,2019,88060858257.0,90.3
+823,Oman,High income,2020,75909397659.0,95.2
+824,Oman,High income,2021,88191977373.0,96.4
+825,Pakistan,Lower middle income,2005,145209000000.0,6.3
+826,Pakistan,Lower middle income,2010,196710000000.0,8.0
+827,Pakistan,Lower middle income,2015,299964000000.0,11.0
+828,Pakistan,Lower middle income,2019,320909000000.0,17.1
+829,Pakistan,Lower middle income,2020,300426000000.0,18.9
+830,Pakistan,Lower middle income,2021,348517000000.0,21.0
+831,Panama,High income,2000,12304115000.0,6.6
+832,Panama,High income,2005,16374393900.0,11.5
+833,Panama,High income,2010,29440287600.0,40.1
+834,Panama,High income,2015,54091800000.0,51.2
+835,Panama,High income,2019,69721787500.0,63.6
+836,Panama,High income,2020,57086836900.0,65.5
+837,Panama,High income,2021,67406738100.0,67.5
+838,Peru,Upper middle income,2000,51744749133.0,3.1
+839,Peru,Upper middle income,2005,76060606061.0,17.1
+840,Peru,Upper middle income,2010,147528000000.0,34.8
+841,Peru,Upper middle income,2015,189803000000.0,40.9
+842,Peru,Upper middle income,2019,228326000000.0,60.0
+843,Peru,Upper middle income,2020,201948000000.0,65.3
+844,Peru,Upper middle income,2021,223718000000.0,71.1
+845,Philippines,Lower middle income,2000,83669788255.0,2.0
+846,Philippines,Lower middle income,2005,107420000000.0,5.4
+847,Philippines,Lower middle income,2010,208369000000.0,25.0
+848,Philippines,Lower middle income,2015,306446000000.0,36.9
+849,Philippines,Lower middle income,2019,376823000000.0,43.0
+850,Philippines,Lower middle income,2020,361751000000.0,47.1
+851,Philippines,Lower middle income,2021,394087000000.0,52.7
+852,Papua New Guinea,Lower middle income,2000,3521339699.0,0.8
+853,Papua New Guinea,Lower middle income,2005,4865892972.0,1.7
+854,Papua New Guinea,Lower middle income,2010,14250786675.0,1.3
+855,Papua New Guinea,Lower middle income,2015,21723437010.0,7.9
+856,Papua New Guinea,Lower middle income,2019,24751066911.0,20.0
+857,Papua New Guinea,Lower middle income,2020,23848445104.0,27.7
+858,Papua New Guinea,Lower middle income,2021,26113333245.0,32.1
+859,Poland,High income,2000,172220000000.0,7.3
+860,Poland,High income,2005,306146000000.0,38.8
+861,Poland,High income,2010,475697000000.0,62.3
+862,Poland,High income,2015,477111000000.0,68.0
+863,Poland,High income,2019,596058000000.0,80.4
+864,Poland,High income,2020,599443000000.0,83.2
+865,Poland,High income,2021,681346000000.0,85.4
+866,Puerto Rico,High income,2000,61701800000.0,10.5
+867,Puerto Rico,High income,2005,83914521300.0,23.4
+868,Puerto Rico,High income,2010,98381300000.0,45.3
+869,Puerto Rico,High income,2015,103376000000.0,63.5
+870,Puerto Rico,High income,2019,105126000000.0,77.7
+871,Portugal,High income,2000,118605000000.0,16.4
+872,Portugal,High income,2005,197254000000.0,35.0
+873,Portugal,High income,2010,238113000000.0,53.3
+874,Portugal,High income,2015,199394000000.0,68.6
+875,Portugal,High income,2019,239987000000.0,75.3
+876,Portugal,High income,2020,229032000000.0,78.3
+877,Portugal,High income,2021,255535000000.0,82.3
+878,Paraguay,Upper middle income,2000,8855705140.0,0.7
+879,Paraguay,Upper middle income,2005,10737500188.0,7.9
+880,Paraguay,Upper middle income,2010,27260886405.0,19.8
+881,Paraguay,Upper middle income,2015,36211447840.0,49.7
+882,Paraguay,Upper middle income,2019,37925338329.0,68.5
+883,Paraguay,Upper middle income,2020,35432178068.0,74.0
+884,Paraguay,Upper middle income,2021,39950899939.0,77.0
+885,French Polynesia,High income,2000,3599845480.0,6.4
+886,French Polynesia,High income,2005,5705052135.0,21.5
+887,French Polynesia,High income,2010,6086644799.0,49.0
+888,French Polynesia,High income,2015,5325846362.0,64.6
+889,Qatar,High income,2000,17759890110.0,4.9
+890,Qatar,High income,2005,44530494505.0,24.7
+891,Qatar,High income,2010,125122000000.0,69.0
+892,Qatar,High income,2015,161740000000.0,92.9
+893,Qatar,High income,2019,176371000000.0,99.7
+894,Qatar,High income,2020,144411000000.0,99.7
+895,Qatar,High income,2021,179732000000.0,100.0
+896,Romania,High income,2000,37253739511.0,3.6
+897,Romania,High income,2005,98454380120.0,21.5
+898,Romania,High income,2010,170029000000.0,39.9
+899,Romania,High income,2015,177884000000.0,55.8
+900,Romania,High income,2019,251018000000.0,73.7
+901,Romania,High income,2020,251363000000.0,78.5
+902,Romania,High income,2021,285810000000.0,83.6
+903,Russian Federation,Upper middle income,2000,259710000000.0,2.0
+904,Russian Federation,Upper middle income,2005,764016000000.0,15.2
+905,Russian Federation,Upper middle income,2010,1524920000000.0,49.0
+906,Russian Federation,Upper middle income,2015,1363480000000.0,70.1
+907,Russian Federation,Upper middle income,2019,1693120000000.0,82.6
+908,Russian Federation,Upper middle income,2020,1493080000000.0,85.0
+909,Russian Federation,Upper middle income,2021,1836890000000.0,88.2
+910,Rwanda,Low income,2000,2068955253.0,0.1
+911,Rwanda,Low income,2005,2933999089.0,0.6
+912,Rwanda,Low income,2010,6125216482.0,8.0
+913,Rwanda,Low income,2015,8544621757.0,12.5
+914,Rwanda,Low income,2019,10346326599.0,21.4
+915,Rwanda,Low income,2020,10172303393.0,23.8
+916,Rwanda,Low income,2021,11054517346.0,30.5
+917,Saudi Arabia,High income,2000,189515000000.0,2.2
+918,Saudi Arabia,High income,2005,328460000000.0,12.7
+919,Saudi Arabia,High income,2010,528207000000.0,41.0
+920,Saudi Arabia,High income,2015,669484000000.0,69.6
+921,Saudi Arabia,High income,2019,838565000000.0,95.7
+922,Saudi Arabia,High income,2020,734271000000.0,97.9
+923,Saudi Arabia,High income,2021,874156000000.0,100.0
+924,Sudan,Low income,2000,12257299147.0,0.0
+925,Sudan,Low income,2005,35182711988.0,1.3
+926,Sudan,Low income,2019,32338079165.0,25.9
+927,Sudan,Low income,2020,27034593750.0,28.4
+928,Senegal,Lower middle income,2000,6013185004.0,0.4
+929,Senegal,Lower middle income,2005,11009033438.0,4.8
+930,Senegal,Lower middle income,2010,16121315909.0,8.0
+931,Senegal,Lower middle income,2015,17774766696.0,21.7
+932,Senegal,Lower middle income,2019,23403995992.0,36.2
+933,Senegal,Lower middle income,2020,24530513038.0,47.2
+934,Senegal,Lower middle income,2021,27569136730.0,58.1
+935,Singapore,High income,2000,96076539926.0,36.0
+936,Singapore,High income,2005,127808000000.0,61.0
+937,Singapore,High income,2010,239808000000.0,71.0
+938,Singapore,High income,2015,307999000000.0,83.2
+939,Singapore,High income,2019,376838000000.0,88.9
+940,Singapore,High income,2020,348392000000.0,92.0
+941,Singapore,High income,2021,423797000000.0,91.1
+942,Solomon Islands,Lower middle income,2000,419842674.2,0.5
+943,Solomon Islands,Lower middle income,2005,552864570.2,0.8
+944,Solomon Islands,Lower middle income,2010,898133684.9,5.0
+945,Solomon Islands,Lower middle income,2015,1307909888.0,10.0
+946,Solomon Islands,Lower middle income,2019,1619155017.0,28.2
+947,Solomon Islands,Lower middle income,2020,1536145814.0,35.9
+948,Solomon Islands,Lower middle income,2021,1580303515.0,36.1
+949,Sierra Leone,Low income,2000,635874002.2,0.1
+950,Sierra Leone,Low income,2005,1627058425.0,0.2
+951,Sierra Leone,Low income,2010,2578159804.0,0.6
+952,Sierra Leone,Low income,2015,4252029354.0,6.3
+953,Sierra Leone,Low income,2019,4076578699.0,16.8
+954,Sierra Leone,Low income,2020,4062906266.0,18.0
+955,El Salvador,Upper middle income,2000,11784927700.0,1.2
+956,El Salvador,Upper middle income,2005,14698000000.0,4.2
+957,El Salvador,Upper middle income,2010,18447920000.0,15.9
+958,El Salvador,Upper middle income,2015,23438240000.0,26.8
+959,El Salvador,Upper middle income,2019,26881140000.0,50.5
+960,El Salvador,Upper middle income,2020,24930080000.0,54.6
+961,El Salvador,Upper middle income,2021,29451240000.0,62.9
+962,San Marino,High income,2000,1005159388.0,48.8
+963,San Marino,High income,2005,1785847531.0,50.3
+964,San Marino,High income,2019,1616188702.0,67.9
+965,San Marino,High income,2020,1541247884.0,70.5
+966,San Marino,High income,2021,1855382833.0,74.9
+967,Somalia,Low income,2015,6984947145.0,1.8
+968,Serbia,Upper middle income,2005,27683225959.0,26.3
+969,Serbia,Upper middle income,2010,41819468692.0,40.9
+970,Serbia,Upper middle income,2015,39655949731.0,65.3
+971,Serbia,Upper middle income,2019,51514242939.0,77.4
+972,Serbia,Upper middle income,2020,53356484591.0,78.4
+973,Serbia,Upper middle income,2021,63101069561.0,81.2
+974,South Sudan,Low income,2015,11997800760.0,3.0
+975,Sub-Saharan Africa,,2000,424191000000.0,0.9
+976,Sub-Saharan Africa,,2005,823426000000.0,2.0
+977,Sub-Saharan Africa,,2010,1465220000000.0,6.0
+978,Sub-Saharan Africa,,2015,1701780000000.0,16.0
+979,Sub-Saharan Africa,,2019,1829600000000.0,27.4
+980,Sub-Saharan Africa,,2020,1715840000000.0,31.5
+981,Sub-Saharan Africa,,2021,1931460000000.0,34.9
+982,Sao Tome and Principe,,2005,136450662.4,13.8
+983,Sao Tome and Principe,,2010,190021192.5,18.8
+984,Sao Tome and Principe,,2015,259999643.0,25.8
+985,Sao Tome and Principe,,2019,412976064.5,30.2
+986,Sao Tome and Principe,,2020,471229484.6,40.3
+987,Sao Tome and Principe,,2021,524402450.8,51.2
+988,Suriname,Upper middle income,2000,947671969.7,2.5
+989,Suriname,Upper middle income,2005,1793410397.0,6.4
+990,Suriname,Upper middle income,2010,4368370998.0,31.6
+991,Suriname,Upper middle income,2015,5126237646.0,42.8
+992,Suriname,Upper middle income,2019,4016040575.0,56.8
+993,Suriname,Upper middle income,2020,2911807496.0,62.1
+994,Suriname,Upper middle income,2021,3081401726.0,65.9
+995,Slovenia,High income,2000,20289627637.0,15.1
+996,Slovenia,High income,2005,36206395971.0,46.8
+997,Slovenia,High income,2010,48208240226.0,70.0
+998,Slovenia,High income,2015,43107506024.0,73.1
+999,Slovenia,High income,2019,54386654314.0,83.1
+1000,Seychelles,High income,2000,654212394.3,7.4
+1001,Sweden,High income,2000,262835000000.0,45.7
+1002,Trinidad and Tobago,High income,2000,8154338233.0,7.7
+1003,United States,High income,2000,10250900000000.0,43.1
+1004,Uruguay,High income,2000,22823270892.0,10.5
+1005,Seychelles,High income,2005,977899381.8,25.4
+1006,Sweden,High income,2005,392218000000.0,84.8
+1007,Trinidad and Tobago,High income,2005,15982282462.0,29.0
+1008,United States,High income,2005,13039200000000.0,68.0
+1009,Uruguay,High income,2005,17362857684.0,20.1
+1010,Seychelles,High income,2010,981917973.7,41.0
+1011,Sweden,High income,2010,495813000000.0,90.0
+1012,Trinidad and Tobago,High income,2010,22157948396.0,48.5
+1013,United States,High income,2010,15049000000000.0,71.7
+1014,Uruguay,High income,2010,41950361212.0,46.4
+1015,Seychelles,High income,2015,1391427967.0,54.3
+1016,Sweden,High income,2015,505104000000.0,90.6
+1017,Trinidad and Tobago,High income,2015,27026080987.0,65.1
+1018,United States,High income,2015,18206000000000.0,74.6
+1019,Uruguay,High income,2015,57680327999.0,64.6
+1020,Seychelles,High income,2019,1645090567.0,74.8
+1021,Sweden,High income,2019,533880000000.0,94.5
+1022,Trinidad and Tobago,High income,2019,23775754305.0,79.0
+1023,United States,High income,2019,21381000000000.0,89.4
+1024,Uruguay,High income,2019,62048585619.0,83.4
+1025,Seychelles,High income,2020,1183515314.0,75.5
+1026,Slovenia,High income,2020,53734526854.0,86.6
+1027,Sweden,High income,2020,547054000000.0,94.5
+1028,Trinidad and Tobago,High income,2020,20807571314.0,78.7
+1029,United States,High income,2020,21060500000000.0,90.6
+1030,Uruguay,High income,2020,53666908054.0,86.3
+1031,Seychelles,High income,2021,1286687308.0,81.6
+1032,Slovenia,High income,2021,61832201544.0,89.0
+1033,Sweden,High income,2021,639715000000.0,88.3
+1034,Trinidad and Tobago,High income,2021,24496505941.0,79.0
+1035,United States,High income,2021,23315100000000.0,91.8
+1036,Uruguay,High income,2021,61412268249.0,90.1
+1037,Chad,Low income,2000,1388506772.0,0.0
+1038,Syrian Arab Republic,Low income,2000,80590022272.0,0.2
+1039,Togo,Low income,2000,1491891156.0,0.8
+1040,Uganda,Low income,2000,6193246837.0,0.2
+1041,Chad,Low income,2005,6649307524.0,0.4
+1042,Syrian Arab Republic,Low income,2005,134204000000.0,5.6
+1043,Togo,Low income,2005,2281483016.0,1.8
+1044,Uganda,Low income,2005,9239221763.0,1.7
+1045,Chad,Low income,2010,10668103554.0,1.7
+1046,Syrian Arab Republic,Low income,2010,252518000000.0,20.7
+1047,Togo,Low income,2010,4746386893.0,3.0
+1048,Uganda,Low income,2010,26673441431.0,4.3
+1049,Chad,Low income,2015,10950392257.0,3.5
+1050,Syrian Arab Republic,Low income,2015,16468399173.0,30.0
+1051,Togo,Low income,2015,5755457836.0,7.1
+1052,Uganda,Low income,2015,32387183730.0,5.8
+1053,Chad,Low income,2019,11314951092.0,8.4
+1054,Syrian Arab Republic,Low income,2019,22600896343.0,34.7
+1055,Togo,Low income,2019,6992654019.0,20.7
+1056,Uganda,Low income,2019,35348155095.0,6.0
+1057,Chad,Low income,2020,10715396042.0,11.7
+1058,Syrian Arab Republic,Low income,2020,11156757922.0,35.8
+1059,Togo,Low income,2020,7486031562.0,29.1
+1060,Uganda,Low income,2020,37605430214.0,6.1
+1061,Chad,Low income,2021,11779981333.0,17.9
+1062,Togo,Low income,2021,8443112143.0,35.0
+1063,Uganda,Low income,2021,40510241366.0,10.3
+1064,Eswatini,Lower middle income,2000,1738093840.0,0.9
+1065,Samoa,Lower middle income,2000,258856139.8,0.6
+1066,Tajikistan,Lower middle income,2000,860541842.3,0.0
+1067,Tunisia,Lower middle income,2000,21473528161.0,2.8
+1068,Ukraine,Lower middle income,2000,32375083935.0,0.7
+1069,Uzbekistan,Lower middle income,2000,13760513969.0,0.5
+1070,Vanuatu,Lower middle income,2000,272014627.8,2.1
+1071,Viet Nam,Lower middle income,2000,31172518403.0,0.3
+1072,Zambia,Lower middle income,2000,3600632111.0,0.2
+1073,Zimbabwe,Lower middle income,2000,6689957600.0,0.4
+1074,Eswatini,Lower middle income,2005,3178112499.0,3.7
+1075,Samoa,Lower middle income,2005,476801793.2,3.4
+1076,Tajikistan,Lower middle income,2005,2312352268.0,0.3
+1077,Timor-Leste,Lower middle income,2005,462268000.0,0.1
+1078,Tunisia,Lower middle income,2005,32272186695.0,9.7
+1079,Ukraine,Lower middle income,2005,89238865119.0,3.7
+1080,Uzbekistan,Lower middle income,2005,14307509839.0,3.3
+1081,Vanuatu,Lower middle income,2005,394962433.0,5.1
+1082,Viet Nam,Lower middle income,2005,57633255738.0,12.7
+1083,Zambia,Lower middle income,2005,8331870169.0,1.3
+1084,Zimbabwe,Lower middle income,2005,5755215200.0,2.4
+1085,Eswatini,Lower middle income,2010,4438765086.0,11.0
+1086,Samoa,Lower middle income,2010,680260907.2,7.0
+1087,Tajikistan,Lower middle income,2010,5642221529.0,11.6
+1088,Timor-Leste,Lower middle income,2010,881909300.0,3.0
+1089,Tunisia,Lower middle income,2010,46206091938.0,36.8
+1090,Ukraine,Lower middle income,2010,141209000000.0,23.3
+1091,Uzbekistan,Lower middle income,2010,49765676402.0,15.9
+1092,Vanuatu,Lower middle income,2010,670712979.7,8.0
+1093,Viet Nam,Lower middle income,2010,147201000000.0,30.7
+1094,Zambia,Lower middle income,2010,20265559484.0,3.0
+1095,Zimbabwe,Lower middle income,2010,12041655200.0,6.4
+1096,Eswatini,Lower middle income,2015,4063245671.0,25.6
+1097,Samoa,Lower middle income,2015,824150498.7,25.4
+1098,Tajikistan,Lower middle income,2015,8271431932.0,19.0
+1099,Timor-Leste,Lower middle income,2015,1595205100.0,18.6
+1100,Tunisia,Lower middle income,2015,45779494042.0,46.5
+1101,Ukraine,Lower middle income,2015,91030967789.0,48.9
+1102,Uzbekistan,Lower middle income,2015,86196264742.0,42.8
+1103,Vanuatu,Lower middle income,2015,730870803.0,22.4
+1104,Viet Nam,Lower middle income,2015,239258000000.0,45.0
+1105,Zambia,Lower middle income,2015,21251216799.0,8.8
+1106,Zimbabwe,Lower middle income,2015,19963120600.0,22.7
+1107,Eswatini,Lower middle income,2019,4466214591.0,54.0
+1108,Samoa,Lower middle income,2019,912950466.1,61.2
+1109,Timor-Leste,Lower middle income,2019,2027034000.0,28.0
+1110,Tunisia,Lower middle income,2019,41905540184.0,66.7
+1111,Ukraine,Lower middle income,2019,153883000000.0,70.1
+1112,Uzbekistan,Lower middle income,2019,60283503705.0,70.4
+1113,Vanuatu,Lower middle income,2019,936526267.6,50.7
+1114,Viet Nam,Lower middle income,2019,334365000000.0,68.7
+1115,Zambia,Lower middle income,2019,23308667781.0,16.8
+1116,Zimbabwe,Lower middle income,2019,21832234921.0,26.6
+1117,Eswatini,Lower middle income,2020,3982236693.0,56.4
+1118,Samoa,Lower middle income,2020,868898358.3,69.2
+1119,Timor-Leste,Lower middle income,2020,2162619200.0,34.1
+1120,Tunisia,Lower middle income,2020,42538289933.0,72.8
+1121,Ukraine,Lower middle income,2020,156618000000.0,75.0
+1122,Uzbekistan,Lower middle income,2020,60224701297.0,71.1
+1123,Vanuatu,Lower middle income,2020,909421043.5,53.3
+1124,Viet Nam,Lower middle income,2020,346616000000.0,70.3
+1125,Zambia,Lower middle income,2020,18110638269.0,18.1
+1126,Zimbabwe,Lower middle income,2020,21509698407.0,29.3
+1127,Eswatini,Lower middle income,2021,4850842572.0,58.9
+1128,Samoa,Lower middle income,2021,843923638.7,78.2
+1129,Timor-Leste,Lower middle income,2021,3621958000.0,39.5
+1130,Tunisia,Lower middle income,2021,46687293140.0,79.0
+1131,Ukraine,Lower middle income,2021,199766000000.0,79.2
+1132,Uzbekistan,Lower middle income,2021,69600614987.0,76.6
+1133,Vanuatu,Lower middle income,2021,971636097.9,66.3
+1134,Viet Nam,Lower middle income,2021,366138000000.0,74.2
+1135,Zambia,Lower middle income,2021,22096416934.0,21.2
+1136,Zimbabwe,Lower middle income,2021,28371238666.0,34.8
+1137,South Africa,Upper middle income,2000,151753000000.0,5.3
+1138,Thailand,Upper middle income,2000,126392000000.0,3.7
+1139,Tonga,Upper middle income,2000,204848487.8,2.4
+1140,Turkmenistan,Upper middle income,2000,2904663311.0,0.1
+1141,Tuvalu,Upper middle income,2000,15073975.53,5.2
+1142,South Africa,Upper middle income,2005,288867000000.0,7.5
+1143,Thailand,Upper middle income,2005,189318000000.0,15.0
+1144,Tonga,Upper middle income,2005,261803684.2,4.9
+1145,Turkmenistan,Upper middle income,2005,8103901996.0,1.0
+1146,Tuvalu,Upper middle income,2005,22909979.82,8.3
+1147,South Africa,Upper middle income,2010,417364000000.0,24.0
+1148,Thailand,Upper middle income,2010,341105000000.0,22.4
+1149,Tonga,Upper middle income,2010,366832215.2,16.0
+1150,Turkmenistan,Upper middle income,2010,22583157895.0,3.0
+1151,Tuvalu,Upper middle income,2010,32105408.48,14.6
+1152,South Africa,Upper middle income,2015,346710000000.0,51.9
+1153,Thailand,Upper middle income,2015,401296000000.0,39.3
+1154,Tonga,Upper middle income,2015,437003078.6,38.7
+1155,Turkmenistan,Upper middle income,2015,35799714286.0,15.0
+1156,Tuvalu,Upper middle income,2015,36811936.08,27.3
+1157,South Africa,Upper middle income,2019,389330000000.0,69.7
+1158,Thailand,Upper middle income,2019,543977000000.0,66.7
+1159,Tonga,Upper middle income,2019,512053692.1,61.8
+1160,South Africa,Upper middle income,2020,338291000000.0,70.3
+1161,Thailand,Upper middle income,2020,500457000000.0,77.8
+1162,Tonga,Upper middle income,2020,484796854.9,66.6
+1163,South Africa,Upper middle income,2021,420118000000.0,72.3
+1164,Thailand,Upper middle income,2021,505568000000.0,85.3
+1165,Tonga,Upper middle income,2021,469228219.7,71.6
+1166,Tuvalu,Upper middle income,2021,60196405.71,71.6
