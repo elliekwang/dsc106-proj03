@@ -4,9 +4,322 @@
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
 
+<html>
+  <head>
+    <h1> Comparison </h1>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<!-- Initialize a select button -->
+<select id="High Income Button"></select>
+
+<select id="Upper Middle Income Button"></select>
+
+<select id="Lower Middle Income Button"></select>
+
+<select id="Low Income Button"></select>
+
+
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
 
+<!-- Color Scale -->
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+<script>
+
+    // set the dimensions and margins of the graph
+    var margin = {top: 10, right: 30, bottom: 60, left: 60},
+        width = 460 - margin.left - margin.right,
+        height = 400 - margin.top - margin.bottom;
+    
+    // append the svg object to the body of the page
+    var svg = d3.select("#my_dataviz")
+      .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+    
+    //Read the data
+    d3.csv("https://raw.githubusercontent.com/elliekwang/dsc106-proj03/main/internet.csv", function(data) {
+    
+        // List of groups (here I have one group per column)
+        var allGroup = d3.map(data, function(d){return(d.country)}).keys()
+    
+      // High Income Group
+        var highIncomeGroup = d3.map(data, function(d) {
+          if (d.income === "High income") {
+              return d.country;
+          }
+        }).keys();
+      // Upper middle income 
+        var upperMiddleIncomeGroup = d3.map(data, function(d) {
+          if (d.income === "Upper middle income") {
+              return d.country;
+          }
+        }).keys();
+
+      // Lower middle income 
+        var lowerMiddleIncomeGroup = d3.map(data, function(d) {
+          if (d.income === "Lower middle income") {
+              return d.country;
+          }
+        }).keys();
+
+      // Low Income Group
+        var lowIncomeGroup = d3.map(data, function(d) {
+          if (d.income === "Low income") {
+              return d.country;
+          }
+        }).keys();
 
 
-<script>  src = './script.js' </script>
+
+
+
+        // Upper Income Button
+        d3.select("Upper Income Button")
+          .selectAll('myOptions')
+             .data(highIncomeGroup)
+          .enter()
+            .append('option')
+          .text(function (d) { return d; }) // text showed in the menu
+          .attr("value", function (d) { return d; }) // corresponding value returned by the button
+        
+           // Upper Middle Income Button
+        d3.select("Upper Middle Income Button")
+          .selectAll('myOptions')
+             .data(upperMiddleIncomeGroup)
+          .enter()
+            .append('option')
+          .text(function (d) { return d; }) // text showed in the menu
+          .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+           // Lower Middle Income Button
+        d3.select("Lower Middle Income Button")
+          .selectAll('myOptions')
+             .data(lowerMiddleIncomeGroup)
+          .enter()
+            .append('option')
+          .text(function (d) { return d; }) // text showed in the menu
+          .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+        // Lower Income Button
+        d3.select("Low Income Button")
+            .selectAll('myOptions')
+            .data(lowIncomeGroup)
+            .enter()
+            .append('option')
+            .text(function (d) { return d; }) // text showed in the menu
+            .attr("value", function (d) { return d; }) // corresponding value returned by the button
+    
+
+        
+        // A color scale: one color for each group
+        var myColor = d3.scaleOrdinal()
+          .domain(allGroup)
+          .range(d3.schemeSet2);
+    
+        // Add X axis --> it is a date format
+        var tickValues = [2000, 2005, 2010, 2015, 2020];
+        var x = d3.scaleLinear()
+          .domain(d3.extent(data, function(d) { return d.year; }))
+          .range([ 0, width ]);
+        svg.append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x).tickValues(tickValues));
+        
+        svg.append("text")      // text label for the x axis
+            .attr("x", 190 )
+            .attr("y",  365)
+            .style("text-anchor", "middle")
+            .text("Year");
+    
+        // Add Y axis
+        var y = d3.scaleLinear()
+          .domain([0, d3.max(data, function(d) { return +d.internet; })])
+          .range([ height, 0 ]);
+        svg.append("g")
+          .call(d3.axisLeft(y));
+        
+        svg.append("text")
+            .attr("transform", "rotate(-90)")
+            .attr("y", -30)
+            .attr("x",0 - (height / 2))
+            .style("text-anchor", "middle")
+            .text("Internet Usage %");
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        // Initialize line with first group of the list
+        var line1 = svg
+          .append('g')
+          .append("path")
+            .datum(data.filter(function(d){return d.country==highIncomeGroup[0]}))
+            .attr("d", d3.line()
+              .x(function(d) { return x(d.year) })
+              .y(function(d) { return y(+d.internet) })
+            )
+            .attr("stroke", function(d){ return myColor("Aruba") })
+            .style("stroke-width", 4)
+            .style("fill", "none");
+
+        var line2 = svg
+          .append('g')
+          .append("path")
+            .datum(data.filter(function(d){return d.country==upperMiddleIncomeGroup[0]}))
+            .attr("d", d3.line()
+              .x(function(d) { return x(d.year) })
+              .y(function(d) { return y(+d.internet) })
+            )
+            .attr("stroke", function(d){ return myColor("Aruba") })
+            .style("stroke-width", 4)
+            .style("fill", "none");
+        
+        
+        var line3 = svg
+          .append('g')
+          .append("path")
+            .datum(data.filter(function(d){return d.country==lowerMiddleIncomeGroup[0]}))
+            .attr("d", d3.line()
+              .x(function(d) { return x(d.year) })
+              .y(function(d) { return y(+d.internet) })
+            )
+            .attr("stroke", function(d){ return myColor("Aruba") })
+            .style("stroke-width", 4)
+            .style("fill", "none");  
+
+
+        var line4 = svg
+          .append('g')
+          .append("path")
+            .datum(data.filter(function(d){return d.country==lowIncomeGroup[0]}))
+            .attr("d", d3.line()
+              .x(function(d) { return x(d.year) })
+              .y(function(d) { return y(+d.internet) })
+            )
+            .attr("stroke", function(d){ return myColor("Aruba") })
+            .style("stroke-width", 4)
+            .style("fill", "none");
+            
+    
+        
+
+        function update1(selectedGroup) {
+    
+          // Create new data with the selection?
+              var dataFilter = data.filter(function(d){return d.country==selectedGroup})
+
+          // Give these new data to update line
+          line1
+              .datum(dataFilter)
+              .transition()
+              .duration(1000)
+              .attr("d", d3.line()
+              .x(function(d) { return x(d.year) })
+              .y(function(d) { return y(+d.internet) })
+              )
+              .attr("stroke", function(d){ return myColor(selectedGroup) })
+          }
+
+          function update2(selectedGroup) {
+    
+          // Create new data with the selection?
+          var dataFilter = data.filter(function(d){return d.country==selectedGroup})
+    
+          // Give these new data to update line
+          line2
+              .datum(dataFilter)
+              .transition()
+              .duration(1000)
+              .attr("d", d3.line()
+                .x(function(d) { return x(d.year) })
+                .y(function(d) { return y(+d.internet) })
+              )
+              .attr("stroke", function(d){ return myColor(selectedGroup) })
+        }
+
+        function update3(selectedGroup) {
+    
+          // Create new data with the selection?
+          var dataFilter = data.filter(function(d){return d.country==selectedGroup})
+
+          // Give these new data to update line
+          line3
+              .datum(dataFilter)
+              .transition()
+              .duration(1000)
+              .attr("d", d3.line()
+                .x(function(d) { return x(d.year) })
+                .y(function(d) { return y(+d.internet) })
+              )
+              .attr("stroke", function(d){ return myColor(selectedGroup) })
+        }
+
+        function update4(selectedGroup) {
+    
+          // Create new data with the selection?
+          var dataFilter = data.filter(function(d){return d.country==selectedGroup})
+
+          // Give these new data to update line
+          line4
+              .datum(dataFilter)
+              .transition()
+              .duration(1000)
+              .attr("d", d3.line()
+                .x(function(d) { return x(d.year) })
+                .y(function(d) { return y(+d.internet) })
+              )
+              .attr("stroke", function(d){ return myColor(selectedGroup) })
+        }
+    
+
+
+
+        // When the button is changed, run the updateChart function
+        d3.select("High Income Button").on("change", function(d) {
+            // recover the option that has been chosen
+            var selectedOption = d3.select(this).property("value")
+            // run the updateChart function with this selected option
+            update1(selectedOption)
+        })
+
+        d3.select("Upper Middle Income Button").on("change", function(d) {
+            // recover the option that has been chosen
+            var selectedOption = d3.select(this).property("value")
+            // run the updateChart function with this selected option
+            update1(selectedOption)
+        })
+
+        d3.select("Lower Middle Income Button").on("change", function(d) {
+            // recover the option that has been chosen
+            var selectedOption = d3.select(this).property("value")
+            // run the updateChart function with this selected option
+            update1(selectedOption)
+        })
+
+        d3.select("Low Income Button").on("change", function(d) {
+            // recover the option that has been chosen
+            var selectedOption = d3.select(this).property("value")
+            // run the updateChart function with this selected option
+            update2(selectedOption)
+        })
+        
+    
+    })
+    
+    
+    </script>
