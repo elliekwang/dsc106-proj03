@@ -11,13 +11,13 @@
 </head>
 
 <!-- Initialize a select button -->
-<select id="High Income Button"></select>
+<select id="high-income-button"></select>
+1
+<select id="upper-middle-button"></select>
 
-<select id="Upper Middle Income Button"></select>
+<select id="lower-middle-button"></select>
 
-<select id="Lower Middle Income Button"></select>
-
-<select id="Low Income Button"></select>
+<select id="low-income-button"></select>
 
 
 <!-- Create a div where the graph will take place -->
@@ -80,7 +80,7 @@
 
 
         // Upper Income Button
-        d3.select("Upper Income Button")
+        d3.select("#high-income-button")
           .selectAll('myOptions')
              .data(highIncomeGroup)
           .enter()
@@ -89,7 +89,7 @@
           .attr("value", function (d) { return d; }) // corresponding value returned by the button
         
            // Upper Middle Income Button
-        d3.select("Upper Middle Income Button")
+        d3.select("#upper-middle-button")
           .selectAll('myOptions')
              .data(upperMiddleIncomeGroup)
           .enter()
@@ -97,8 +97,8 @@
           .text(function (d) { return d; }) // text showed in the menu
           .attr("value", function (d) { return d; }) // corresponding value returned by the button
 
-           // Lower Middle Income Button
-        d3.select("Lower Middle Income Button")
+           // lower-middle-income
+        d3.select("#lower-middle-button")
           .selectAll('myOptions')
              .data(lowerMiddleIncomeGroup)
           .enter()
@@ -107,7 +107,7 @@
           .attr("value", function (d) { return d; }) // corresponding value returned by the button
 
         // Lower Income Button
-        d3.select("Low Income Button")
+        d3.select("#low-income-button")
             .selectAll('myOptions')
             .data(lowIncomeGroup)
             .enter()
@@ -288,34 +288,34 @@
     
 
 
-
+        console.log(d3.select("#high-income-button"))
         // When the button is changed, run the updateChart function
-        d3.select("High Income Button").on("change", function(d) {
+        d3.select("#high-income-button").on("change", function(d) {
             // recover the option that has been chosen
             var selectedOption = d3.select(this).property("value")
             // run the updateChart function with this selected option
             update1(selectedOption)
         })
 
-        d3.select("Upper Middle Income Button").on("change", function(d) {
-            // recover the option that has been chosen
-            var selectedOption = d3.select(this).property("value")
-            // run the updateChart function with this selected option
-            update1(selectedOption)
-        })
-
-        d3.select("Lower Middle Income Button").on("change", function(d) {
-            // recover the option that has been chosen
-            var selectedOption = d3.select(this).property("value")
-            // run the updateChart function with this selected option
-            update1(selectedOption)
-        })
-
-        d3.select("Low Income Button").on("change", function(d) {
+        d3.select("#upper-middle-button").on("change", function(d) {
             // recover the option that has been chosen
             var selectedOption = d3.select(this).property("value")
             // run the updateChart function with this selected option
             update2(selectedOption)
+        })
+
+        d3.select("#lower-middle-button").on("change", function(d) {
+            // recover the option that has been chosen
+            var selectedOption = d3.select(this).property("value")
+            // run the updateChart function with this selected option
+            update3(selectedOption)
+        })
+
+        d3.select("#low-income-button").on("change", function(d) {
+            // recover the option that has been chosen
+            var selectedOption = d3.select(this).property("value")
+            // run the updateChart function with this selected option
+            update4(selectedOption)
         })
         
     
