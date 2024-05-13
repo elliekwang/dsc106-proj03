@@ -88,7 +88,7 @@
 
     // set the dimensions and margins of the graph
     var margin = {top: 50, right: 80, bottom: 60, left: 80},
-        width = 460 - margin.left - margin.right,
+        width = 700 - margin.left - margin.right,
         height = 400 - margin.top - margin.bottom;
     
     var svgHeight = height + margin.top + margin.bottom + 15; // Add 50px for the title box
@@ -227,12 +227,12 @@
         
         // Title text
         svg.append("text")
-            .attr("x", 290) // Center the text
+            .attr("x", 370) // Center the text
             .attr("y", -20) // Position in the middle of the title box
             .attr("text-anchor", "middle") // Ensure it is centered
             .attr("font-size", "16px") // Font size
             .attr("font-weight", "bold") // Font weight
-            .text("How does internet usage in countries of different income groups change over time"); // Your additional title
+            .text("How does internet usage in countries of different income groups change over time from 2000 to 2021"); // Your additional title
 
         // Adding a legend
         var legend = svg.selectAll(".legend")
